@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MCX>
+	<ProjectLocation>
+		D:\PROJECTS\УКС Сырокомли\SCADA\Project1\IM\HMI\{11866113-3643}\D\HMI_4AXJ
+	</ProjectLocation>
+	<ProjectIsConsistent>
+		1
+	</ProjectIsConsistent>
+	<SharedMcxLocation>
+		\\NAME-L475M4MLP7\WinCCProjects\Project1_PC station.MCX
+	</SharedMcxLocation>
+	<ProjectLocationUNC>\\NAME-L475M4MLP7\WinCC_Project_HMI_4AXJ</ProjectLocationUNC>
+	<RDP>
+		<LastModifiedDate>
+		2020-03-11 17:27:13
+	</LastModifiedDate>
+	</RDP>
+</MCX>
